@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { v4 as uuidV4 } from "uuid";
 
 class User {
